@@ -13,34 +13,34 @@
 - 개발기간: 2021/08/30 ~ 2021/09/10
 - 개발인원: F/E 3명, B/E 3명
 - <a href="https://github.com/wecode-bootcamp-korea/24-1st-LaFesta-frontend">F/E gitHub</a>
+- <a href="https://github.com/wecode-bootcamp-korea/24-1st-LaFesta-backend">B/E gitHub</a>
 
 ### 프로젝트 선정이유
 
 ---
 
-- 커머스 사이트로서 필요한 기본 기능들을 구현할 수 있고, MySQL을 통한 데이터베이스 구성 또한 구현할 수 있습니다. 
-
+- 커머스 사이트로서 필요한 기본 기능들과 Aqeury를 통한 모델링을 직접 구현할 수 있어 선정하게 되었습니다. 
 ### 데모 영상
 
 ---
-
+https://www.youtube.com/watch?v=epKkvWK1XUU
 
 
 ### 적용기술
 
-Git & Github,
+Git & Github, <br>
 Django, MySQL
 
 
 ---
 
 ### 구현기능
-FE
-• 이송현 :  Main page, Nav, Footer
-• 정도영 : 상품리스트, 장바구니 페이지 
-• 최파란별 : 회원가입 & 로그인, 상품 상세페이지 
-
-BE
+FE<br>
+• 이송현 :  Main page, Nav, Footer<br>
+• 정도영 : 상품리스트, 장바구니 페이지 <br>
+• 최파란별 : 회원가입 & 로그인, 상품 상세페이지 <br>
+<br>
+BE<br>
 • 박지원 :  회원가입 & 로그인 API <br>
 • 주종민 : 제품리스트 페이지 API + 로고제작 <br>
 • 하예준 : 제품 상세 페이지, 장바구니 API <br>
