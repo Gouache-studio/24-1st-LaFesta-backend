@@ -22,17 +22,18 @@
 - 커머스 사이트로서 필요한 기본 기능들과 Aqeury를 통한 모델링을 직접 구현할 수 있어 선정하게 되었습니다. 
 ### 데모 영상
 https://www.youtube.com/watch?v=epKkvWK1XUU
----
+
 
 ### 적용기술
+---
 
 Git & Github, <br>
 Django, MySQL
 
 
----
 
 ### 구현기능
+---
 FE<br>
 • 이송현 :  Main page, Nav, Footer<br>
 • 정도영 : 상품리스트, 장바구니 페이지 <br>
